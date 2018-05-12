@@ -1,0 +1,28 @@
+_repo: The-Splash-of-a-Drop_27125
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 27125-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Worthington, A. M. (Arthur Mason)
+    alias: Worthington, Arthur Mason
+    birthdate: 1852
+    deathdate: 1916
+    gutenberg_agent_id: '32477'
+    url: http://www.gutenberg.org/2009/agents/32477
+description: ''
+gutenberg_issued: '2008-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27125'
+  lccn: 04000482
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Splashes'
+- !lcc 'QC'
+title: The Splash of a Drop
+url: http://www.gutenberg.org/ebooks/27125
